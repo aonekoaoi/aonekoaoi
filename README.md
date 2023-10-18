@@ -38,6 +38,8 @@ C, Java, Pythonを趣味程度で嗜んでいます。**趣味程度**ですの�
 
 ## Development Environment
 
+<details>
+
 - Programming Language
 
     [![C](https://img.shields.io/badge/C-a8b9cc.svg?logo=c&labelColor=555555&style=flat)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Java](https://img.shields.io/badge/Java-f89917.svg?style=flat)](https://en.wikipedia.org/wiki/Java_(programming_language)) [![Python](https://img.shields.io/badge/Python-3776ab.svg?logo=python&labelColor=555555&style=flat)](https://en.wikipedia.org/wiki/Python_(programming_language)) [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?logo=javascript&labelColor=555555&style=flat)](https://en.wikipedia.org/wiki/JavaScript)
@@ -58,7 +60,11 @@ C, Java, Pythonを趣味程度で嗜んでいます。**趣味程度**ですの�
 
     [![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285f4.svg?logo=googleappsscript&labelColor=555555&style=flat)](https://www.google.com/script/start/) [![Google Colaboratory](https://img.shields.io/badge/Google_Colaboratory-f9ab00.svg?logo=googlecolab&labelColor=555555&style=flat)](https://colab.research.google.com/?hl=en) [![Oracle](https://img.shields.io/badge/Oracle-f80000.svg?logo=oracle&labelColor=555555&style=flat)](https://www.oracle.com/) [![Railway](https://img.shields.io/badge/Railway-0b0d0e.svg?logo=railway&labelColor=555555&style=flat)](https://railway.app/) [![Replit](https://img.shields.io/badge/Replit-f26207.svg?logo=replit&labelColor=555555&style=flat)](https://replit.com/)
 
+</details>
+
 ## Contact Us
+
+<details>
 
 I accept them via DM on my X (Twitter). However, if you are unable to use it due to some problem, we will accept it by DM on Instagram.
 
@@ -66,8 +72,14 @@ I accept them via DM on my X (Twitter). However, if you are unable to use it due
 
 [![Twitter](https://img.shields.io/badge/@aonekoaoi-000000.svg?logo=x&labelColor=555555&style=flat)](https://twitter.com/aonekoaoi) [![Instagram](https://img.shields.io/badge/@aonekoaoi-d4405f.svg?logo=instagram&labelColor=555555&style=flat)](https://www.instagram.com/aonekoaoi/)
 
+</details>
+
 ## GitHub Stats Card
+
+<details>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aonekoaoi&theme=github_dark_dimmed&count_private=true&disable_animations=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aonekoaoi&theme=github_dark_dimmed&card_width=467&disable_animations=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
