@@ -1,17 +1,15 @@
 <!--
-  1. 過去に作成した README.md を基に作成する
-  2. 書き方の統一
-  3. カラーコードは小文字英数字
-  4. 英語の文章内に短縮形を使用しない
-  5. 日本語の文章内に英単語を挿入するときは、半角スペースを英単語の前後に挿入
-  6. 英語および日本語の語順のならびを意識する。しかし使用頻度の高いものおよび、流れがおかしくなるものはこの通りではない
+  1. 過去に作成した README.md を基に作成する。
+  2. 書き方を統一する。
+  3. 英語の文章内に短縮形を使用しない。
+  4. カラーコードは小文字英数字を使用する。
+  5. 日本語の文章内に英単語を挿入するときは、半角スペースを英単語の前後に挿入する。またハイパーリンクも同様にする。
+  6. 英語および日本語の語順のならびを意識する。しかし使用頻度の高い単語および、流れがおかしくなる単語はこの通りではない。
 -->
 
-<p align="center">
-  <h1 align="center">aonekoaoi / 青猫あおい</h1>
-  <p align="center">Follow Me! / 私をフォローして！</p>
-</p>
-<p align="center">
+<div align="center">
+  <h1>aonekoaoi / 青猫あおい</h1>
+  <p>Follow Me! / 私をフォローして！</p>
   <a href="https://twitter.com/aonekoaoi">
     <img alt="X (Twitter)" src="https://img.shields.io/badge/@aonekoaoi-000000.svg?logo=x&labelColor=555555&style=flat" />
   </a>
@@ -21,7 +19,7 @@
   <a href="https://github.com/aonekoaoi">
     <img alt="GitHub" src="https://img.shields.io/badge/@aonekoaoi-181717.svg?logo=github&labelColor=555555&style=flat" />
   </a>
-</p>
+</div>
 
 ## About Me
 
