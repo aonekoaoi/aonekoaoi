@@ -16,13 +16,13 @@
   <p>Follow Me! / 私をフォローして！</p>
   
   <a href="https://twitter.com/aonekoaoi">
-    <img alt="X (Twitter)" src="https://img.shields.io/badge/@aonekoaoi-000000.svg?logo=x&labelColor=555555&style=flat" />
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/@aonekoaoi-000000.svg?logo=x&labelColor=555555&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/aonekoaoi/">
-    <img alt="Instagram" src="https://img.shields.io/badge/@aonekoaoi-d4405f.svg?logo=instagram&labelColor=555555&style=flat" />
+    <img alt="Instagram" src="https://img.shields.io/badge/@aonekoaoi-d4405f.svg?logo=instagram&labelColor=555555&style=for-the-badge" />
   </a>
   <a href="https://github.com/aonekoaoi">
-    <img alt="GitHub" src="https://img.shields.io/badge/@aonekoaoi-181717.svg?logo=github&labelColor=555555&style=flat" />
+    <img alt="GitHub" src="https://img.shields.io/badge/@aonekoaoi-181717.svg?logo=github&labelColor=555555&style=for-the-badge" />
   </a>
 </div>
 
