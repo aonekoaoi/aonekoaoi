@@ -3,8 +3,9 @@
   2. 書き方を統一する。
   3. 英語の文章内に短縮形を使用しない。
   4. カラーコードは小文字英数字を使用する。
-  5. 日本語の文章内に英単語を挿入するときは、半角スペースを英単語の前後に挿入する。またハイパーリンクも同様にする。
-  6. 英語および日本語の語順のならびを意識する。しかし使用頻度の高い単語および、流れがおかしくなる単語はこの通りではない。
+  5. GitHub 内の参照方法は相対参照を使用する。
+  6. 日本語の文章内に英単語を挿入するときは、半角スペースを英単語の前後に挿入する。またハイパーリンクも同様にする。
+  7. 英語および日本語の語順のならびを意識する。しかし使用頻度の高い単語および、流れがおかしくなる単語はこの通りではない。
 -->
 
 <div align="center">
@@ -69,9 +70,9 @@ Therefore, much of the source code is distributed under the **MIT license**.
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007acc.svg?logo=visualstudiocode&labelColor=555555&style=flat)](https://github.com/microsoft/vscode) [![SAKURA Editor](https://img.shields.io/badge/SAKURA_Editor-ffdbed.svg?style=flat)](https://github.com/sakura-editor/sakura)
 
-### Cloud Computer
+### Cloud Computing
 
-[![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285f4.svg?logo=googleappsscript&labelColor=555555&style=flat)](https://www.google.com/script/start/) [![Google Colaboratory](https://img.shields.io/badge/Google_Colaboratory-f9ab00.svg?logo=googlecolab&labelColor=555555&style=flat)](https://colab.research.google.com/?hl=en) [![Oracle](https://img.shields.io/badge/Oracle-f80000.svg?logo=oracle&labelColor=555555&style=flat)](https://www.oracle.com/) [![Railway](https://img.shields.io/badge/Railway-0b0d0e.svg?logo=railway&labelColor=555555&style=flat)](https://railway.app/) [![Replit](https://img.shields.io/badge/Replit-f26207.svg?logo=replit&labelColor=555555&style=flat)](https://replit.com/)
+[![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285f4.svg?logo=googleappsscript&labelColor=555555&style=flat)](https://www.google.com/script/start/) [![Google Colaboratory](https://img.shields.io/badge/Google_Colaboratory-f9ab00.svg?logo=googlecolab&labelColor=555555&style=flat)](https://colab.research.google.com/?hl=en) [![Oracle](https://img.shields.io/badge/Oracle-f80000.svg?logo=oracle&labelColor=555555&style=flat)](https://www.oracle.com/) [![Railway](https://img.shields.io/badge/Railway-0b0d0e.svg?logo=railway&labelColor=555555&style=flat)](https://railway.app/) [![Replit](https://img.shields.io/badge/Replit-f26207.svg?logo=replit&labelColor=555555&style=flat)](https://replit.com/) [![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&labelColor=555555&style=flat)](https://vercel.com/)
 
 </details>
 
