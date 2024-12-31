@@ -23,7 +23,7 @@
       <sup>Follow Me! / 私をフォローして！</sup>
     </p>
     <!-- X (Twitter), Instagram and GitHub -->
-    <a href="https://twitter.com/aonekoaoi" target="_blank" rel="noopener noreferrer">
+    <a href="https://x.com/aonekoaoi" target="_blank" rel="noopener noreferrer">
       <img alt="X (Twitter)@aonekoaoi" src="https://img.shields.io/badge/@aonekoaoi-000000?logo=x&labelColor=555555&style=for-the-badge" />
     </a>
     <a href="https://www.instagram.com/aonekoaoi" target="_blank" rel="noopener noreferrer">
@@ -75,6 +75,25 @@ Therefore, much of the source code is distributed under the **MIT license**.
           <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&labelColor=555555&style=flat-square" />
         </a>
       </section>
+      <h3>Markup Language</h3>
+      <!-- HyperText Markup Language, Cascading Style Sheets, Markdown, JavaScript Object Notation and YAML Ain't a Markup Language -->
+      <section>
+        <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noopener noreferrer">
+          <img alt="HyperText Markup Language" src="https://img.shields.io/badge/HyperText Markup Language-e34f26?logo=html5&labelColor=555555&style=flat-square" />
+        </a>
+        <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noopener noreferrer">
+          <img alt="Cascading Style Sheets" src="https://img.shields.io/badge/Cascading Style Sheets-1572b6?logo=css3&labelColor=555555&style=flat-square" />
+        </a>
+        <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noopener noreferrer">
+          <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&labelColor=555555&style=flat-square" />
+        </a>
+        <a href="https://en.wikipedia.org/wiki/JSON" target="_blank" rel="noopener noreferrer">
+          <img alt="JavaScript Object Notation" src="https://img.shields.io/badge/JavaScript_Object_Notation-000000?logo=json&labelColor=555555&style=flat-square" />
+        </a>
+        <a href="https://en.wikipedia.org/wiki/YAML" target="_blank" rel="noopener noreferrer">
+          <img alt="YAML Ain't a Markup Language" src="https://img.shields.io/badge/YAML_Ain't_a_Markup Language-cb171e?logo=yaml&labelColor=555555&style=flat-square" />
+        </a>
+      </section>
       <h3>Operating System</h3>
       <!-- Linux and Microsoft Windows -->
       <section>
@@ -82,21 +101,21 @@ Therefore, much of the source code is distributed under the **MIT license**.
           <img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624?logo=linux&labelColor=555555&style=flat-square" />
         </a>
         <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noopener noreferrer">
-          <img alt="Microsoft Windows" src="https://img.shields.io/badge/Microsoft_Windows-0078d4?logo=windows&labelColor=555555&style=flat-square" />
+          <img alt="Microsoft Windows" src="https://img.shields.io/badge/Microsoft_Windows-0078d4?style=flat-square" />
         </a>
       </section>
       <h3>Integrated Development Environment</h3>
       <!-- Visual Studio -->
       <section>
         <a href="https://visualstudio.microsoft.com" target="_blank" rel="noopener noreferrer">
-          <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5c2d91?logo=visualstudio&labelColor=555555&style=flat-square" />
+          <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5c2d91?style=flat-square" />
         </a>
       </section>
       <h3>Code Editor</h3>
       <!-- Visual Studio Code -->
       <section>
         <a href="https://github.com/microsoft/vscode">
-          <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007acc?logo=visualstudiocode&labelColor=555555&style=flat-square" />
+          <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007acc?&style=flat-square" />
         </a>
       </section>
       <h3>Cloud Computing</h3>
@@ -118,7 +137,7 @@ Therefore, much of the source code is distributed under the **MIT license**.
           <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7b7?logo=netlify&labelColor=555555&style=flat-square" />
         </a>
         <a href="https://www.oracle.com" target="_blank" rel="noopener noreferrer">
-          <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?logo=oracle&labelColor=555555&style=flat-square" />
+          <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?logo=oracle&style=flat-square" />
         </a>
         <a href="https://railway.app" target="_blank" rel="noopener noreferrer">
           <img alt="Railway" src="https://img.shields.io/badge/Railway-0b0d0e?logo=railway&labelColor=555555&style=flat-square" />
@@ -139,11 +158,11 @@ Therefore, much of the source code is distributed under the **MIT license**.
   <details>
     <summary>Check Here</summary>
 
-Please contact me on my [X (Twitter)](https://twitter.com/aonekoaoi) or [Instagram](https://www.instagram.com/aonekoaoi) direct message.
+Please contact me on my [X (Twitter)](https://x.com/aonekoaoi) or [Instagram](https://www.instagram.com/aonekoaoi) direct message.
 
 Please note that there may be a delay in replying to your message as I am accepting contacts on my SNS accounts.
 
-私の [X (Twitter)](https://twitter.com/aonekoaoi) または [Instagram](https://www.instagram.com/aonekoaoi) のダイレクトメッセージに連絡してください。
+私の [X (Twitter)](https://x.com/aonekoaoi) または [Instagram](https://www.instagram.com/aonekoaoi) のダイレクトメッセージに連絡してください。
 
 SNS アカウントにて連絡を受け付けているため返信に遅れが生じます。
 
